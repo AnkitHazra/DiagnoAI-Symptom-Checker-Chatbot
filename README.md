@@ -105,7 +105,8 @@ The chatbot is live and accessible at:
 
 ![Logo](https://res.cloudinary.com/dtlf7jvw7/image/upload/v1741498620/msfwqyzhrfritgng7cuy.png)
 
-![Video](video.mp4)
+![Video](Video.mp4)
+
 ## Contributors
 
 *Ansubha Dhar*
